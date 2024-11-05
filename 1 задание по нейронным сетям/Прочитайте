@@ -1,0 +1,3 @@
+Чтобы программа запустилась установите вот эту библиотеку в pyton 
+
+" pip install tensorflow matplotlib "
